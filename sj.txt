@@ -1,0 +1,1360 @@
+
+
+
+
+./assets Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\models\block Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\models\item Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\block Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\colormap Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\effect Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\armorstand Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\axolotl Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\banner Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bear Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bed Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bee Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bell Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\boat Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\cat Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\chest Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\conduit Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\cow Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\creeper Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\enderdragon Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\enderman Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\end_crystal Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\fish Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\fox Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\ghast Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\goat Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\hoglin Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\horse Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\horse\armor Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\illager Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\iron_golem Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\llama Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\llama\decor Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\panda Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\parrot Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\pig Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\piglin Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\projectiles Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\rabbit Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\sheep Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\shield Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\shulker Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\signs Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\skeleton Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\slime Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\spider Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\squid Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\strider Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\turtle Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager\profession Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager\profession_level Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager\type Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\wither Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\wolf Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager\profession Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager\profession_level Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager\type Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\environment Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\advancements Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\advancements\backgrounds Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\container Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\container\creative_inventory Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\presets Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\title Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\title\background Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\item Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\map Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\misc Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\mob_effect Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\models Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\models\armor Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\painting Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\particle Hallediliyor
+
+
+
+
+
+
+
+./assets\realms Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\lang Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures\gui Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures\gui\realms Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures\gui\title Hallediliyor
+
+
+
+
+
+
+
+./assets Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\models\block Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\models\item Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\block Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\colormap Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\effect Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\armorstand Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\axolotl Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\banner Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bear Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bed Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bee Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\bell Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\boat Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\cat Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\chest Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\conduit Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\cow Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\creeper Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\enderdragon Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\enderman Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\end_crystal Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\fish Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\fox Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\ghast Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\goat Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\hoglin Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\horse Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\horse\armor Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\illager Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\iron_golem Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\llama Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\llama\decor Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\panda Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\parrot Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\pig Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\piglin Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\projectiles Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\rabbit Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\sheep Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\shield Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\shulker Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\signs Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\skeleton Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\slime Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\spider Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\squid Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\strider Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\turtle Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager\profession Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager\profession_level Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\villager\type Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\wither Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\wolf Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager\profession Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager\profession_level Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\entity\zombie_villager\type Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\environment Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\advancements Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\advancements\backgrounds Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\container Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\container\creative_inventory Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\presets Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\title Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\gui\title\background Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\item Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\map Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\misc Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\mob_effect Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\models Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\models\armor Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\painting Hallediliyor
+
+
+
+
+
+
+
+./assets\minecraft\textures\particle Hallediliyor
+
+
+
+
+
+
+
+./assets\realms Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\lang Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures\gui Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures\gui\realms Hallediliyor
+
+
+
+
+
+
+
+./assets\realms\textures\gui\title Hallediliyor
+
+
+
