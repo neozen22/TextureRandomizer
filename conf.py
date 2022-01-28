@@ -1,3 +1,3 @@
 class Config:
     
-    resource_location = b"your/path\\here\\put\\double\\backslashes"
+    resource_location = b"C:\Users\\avcan\curseforge\minecraft\Instances\Yarra\\resourcepacks"
